@@ -1,0 +1,6 @@
+{
+  "name": "Futbol Quiz Millonario - Espanol y Armenio",
+  "description": "Juego interactivo '¿Quién quiere ser millonario?' de fútbol para aprender español con traducción al armenio por clic, ejercicios variados y matemáticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
